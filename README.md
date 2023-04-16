@@ -3,6 +3,6 @@ Web-API for [www.abstractapi.com](https://www.abstractapi.com) which is a fast, 
 
 ## Example
 ```bash
-source abstract_public_holiday.sh
+source ./abstract_public_holiday.sh
 set_api_key "api_key"
 ```
